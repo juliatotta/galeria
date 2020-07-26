@@ -11,7 +11,7 @@
     grid-template-areas: 
     "imagem imagem imagem imagem"
     "imagem imagem imagem imagem";
-    gap: 10px;
+    gap: 20px;
     margin: auto;
 }
 
